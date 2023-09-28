@@ -1,0 +1,7 @@
+
+.notes{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    justify-content: center;
+}
